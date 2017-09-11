@@ -7,7 +7,7 @@ package homeworkanonymousclasses;
 
 /**
  *
- * @author Blo
+ * @author Laita Claudiu
  */
 public class HelloWorldEliminateAnonymousClasses {
 
