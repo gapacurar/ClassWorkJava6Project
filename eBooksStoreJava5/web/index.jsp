@@ -3,7 +3,7 @@
     Created on : Sep 30, 2017, 2:06:40 PM
     Author     : gheor
 --%>
-
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
